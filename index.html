@@ -1,68 +1,144 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <link rel="icon" href="https://scontent.fvca1-4.fna.fbcdn.net/v/t1.6435-9/169647402_911257109729217_765781427829178363_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Tje1pucyjasAX8SZl5v&_nc_ht=scontent.fvca1-4.fna&oh=00_AT86CKnm6iSorXgCeNQPI3OjSiOfHMeL74DFpR_svnqJPQ&oe=61F34394">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HAP PI NEW YEAW</title>
-    <!-- <link rel="stylesheet" href="style.css"> -->
-    <style>
-        *{
-    padding: 0;
-    margin: 0;
-}
-body{
-    background-color: yellow;
-}
-.container{
-    position: relative;
-    display: flex;
-    justify-content: center;
-}
-.title{
-    font-size: 70px;
-    position: relative;
-    text-align: center;
-    font-weight: bold;
-    color: royalblue;
-}
-.group{
-    position: relative;
-    margin: 10px;
-    font-size: 100px;
-}
-.days{
-    color: rgb(189, 22, 189);
-}
-.small{
-    font-size: 20px;
-    font-weight: bold;
-    color: red;
-}
-    </style>
+    <link rel="icon" href="https://scontent.fvca1-3.fna.fbcdn.net/v/t39.30808-6/271047969_1079359842918942_4291622797789739458_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=pIAUNoyk8_EAX-bbitt&tn=8Z4QwaBVyqC6fHwC&_nc_ht=scontent.fvca1-3.fna&oh=00_AT_x_UlsNTRNF2UVLWw1_r4aKLVuhHc3TydLRk_-MVhLlQ&oe=61E59496">
+    <title>TÍNH TIỀN ĐÁ BANH</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <style>
+     body{
+         background-color: rgb(32, 82, 20);
+     }
+  </style>
 </head>
-<body>
-    <div class="title" id="title">2021</div>
-    <div class="container">
-        <div class="group  days">
-            <span class="small">days: </span><span id="day">NA</span>
+  <body>
+    
+      <div class="container text-center text-danger">
+          <h1>TÍNH TIỀN</h1>
+      </div>
+      <div class="container mw-50">
+        <div class="form-group">
+            <label for="setkeo" class="font-weight-bold text-primary">KÈO</label>
+            <select class="form-control text-center font-weight-bold" id="setkeo">
+                <option value="1">5/5</option>
+                <option value="2">6/4</option>
+                <option value="3">7/3</option>
+                <option value="4">8/2</option>
+                <option value="5">9/1</option>
+                <option value="6">ĐÚP</option>
+            </select>
         </div>
-        <div class="group">
-            <span id="hour">NA</span><span> :</span>
+        <div class="form-group">
+            <label for="tiensan" class="font-weight-bold text-primary">Tiền sân</label><span class="ml-3 font-weight-bold text-danger">( VNĐ )</span>
+            <input type="number" class="form-control" id="tiensan" placeholder="nhập tiền sân...">
         </div>
-        <div class="group">
-            <span id="minute">NA</span><span> :</span>
+        <div class="form-group">
+            <label for="songuoi" class="font-weight-bold text-primary">Số lượng đồng đội</label>
+            <input type="number" class="form-control" id="songuoi" placeholder="nhập số đồng đội...">
         </div>
-        <div class="group">
-            <span id="second">NA</span>
+      </div>
+    
+    <!-- Button trigger modal -->
+    <div class="d-flex justify-content-center">
+        <button type="button" class="btn btn-primary btn-lg font-weight-bold" data-toggle="modal" data-target="#modelId" onclick="clickne()">
+            TÍNH
+          </button> 
+          <!-- Modal -->
+     <div class="modal fade" id="modelId" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                    <div class="modal-header">
+                            <h5 class="modal-title" id="bangtinh">BẢNG TÍNH</h5>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                        </div>
+                <div class="modal-body">
+                    <div class="container-fluid font-weight-bold">
+                        THẮNG: 
+                    </div>
+                    <div class="container-fluid" id="cadoiw">
+                        Add rows here
+                    </div>
+                    <div class="container-fluid" id="motnguoiw">
+                        Add rows here
+                    </div>
+                    <div class="container-fluid font-weight-bold">
+                        THUA:
+                    </div>
+                    <div class="container-fluid" id="cadoil">
+                        Add rows here
+                    </div>
+                    <div class="container-fluid" id="motnguoil">
+                        Add rows here
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="cmt">
-        <div class="fb-comments" data-href="https://trungsondev.github.io/" data-width="1000" data-numposts="5"></div>
+    </div>
+    
+    <div class="fb-share-button" data-href="https://trungsondev.github.io/" data-layout="box_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftrungsondev.github.io%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Chia sẻ</a></div>
+     
+    
+    
+    <script>
+        function clickne(){
+            var tienthang=0;
+            var tienthua=0;
+            var phanthang=0;
+            var phanthua=0;
+            var tiensan=parseInt($('#tiensan').val());
+            var songuoi=parseInt($('#songuoi').val());
+            var tienmotnguoiw=0;
+            var tienmotnguoil=0;
+            if($('#setkeo').val()==1){
+                phanthang=0.5;
+                phanthua=0.5;
+            }else if($('#setkeo').val()==2){
+                phanthang=0.4;
+                phanthua=0.6;
+            }else if($('#setkeo').val()==3){
+                phanthang=0.3;
+                phanthua=0.7;
+            }else if($('#setkeo').val()==4){
+                phanthang=0.2;
+                phanthua=0.8;
+            }else if($('#setkeo').val()==5){
+                phanthang=0.1;
+                phanthua=0.9;
+            }else if($('#setkeo').val()==6){
+                phanthang=0;
+                phanthua=1;
+            }
+            tienthang=tiensan*phanthang;
+            tienthua=tiensan*phanthua;
+            tienmotnguoil=Math.round(tienthua/songuoi);
+            tienmotnguoiw=Math.round(tienthang/songuoi);
+            $('#cadoiw').text('số tiền đội trả khi THẮNG: '+tienthang);
+            $('#motnguoiw').text('số tiền một người trả khi THẮNG: '+tienmotnguoiw);
+            $('#cadoil').text('số tiền đội trả khi THUA: '+tienthua);
+            $('#motnguoil').text('số tiền một người trả khi THUA: '+tienmotnguoil);
+
+        }
+    </script>
+      <div class="cmt">
+        <div class="fb-comments" data-href="https://trungsondev.github.io/" data-width="1000" data-numposts="5" data-colorscheme="dark"></div>
         <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0" nonce="wXLqkpGy"></script>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0" nonce="wXLqkpGy"></script>
     </div>
-    <script src="main.js"></script>
-</body>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
 </html>
