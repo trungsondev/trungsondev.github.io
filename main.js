@@ -142,10 +142,10 @@ function thihanh(de){
       <div class="question ml-sm-5 pl-sm-5 pt-2">
         <div class="py-2 h5"><b>${de[tt]}</b></div>
         <div class="ml-md-3 ml-sm-3 pl-md-5 pt-sm-0 pt-3" id="options"> 
-            <label class="options">${de[tt+1]} <input type="radio" name="radio" onclick="nhanham(${tt+1},'a')"> <span class="checkmark"></span> </label> 
-            <label class="options">${de[tt+2]} <input type="radio" name="radio" onclick="nhanham(${tt+1},'b')"> <span class="checkmark"></span> </label> 
-            <label class="options">${de[tt+3]} <input type="radio" name="radio" onclick="nhanham(${tt+1},'c')"> <span class="checkmark"></span> </label> 
-            <label class="options">${de[tt+4]} <input type="radio" name="radio" onclick="nhanham(${tt+1},'d')"> <span class="checkmark"></span> </label> 
+            <label class="options">${de[tt+1]} <input type="radio" name="radio" onclick="nhanham(${i+1},'a')"> <span class="checkmark"></span> </label> 
+            <label class="options">${de[tt+2]} <input type="radio" name="radio" onclick="nhanham(${i+1},'b')"> <span class="checkmark"></span> </label> 
+            <label class="options">${de[tt+3]} <input type="radio" name="radio" onclick="nhanham(${i+1},'c')"> <span class="checkmark"></span> </label> 
+            <label class="options">${de[tt+4]} <input type="radio" name="radio" onclick="nhanham(${i+1},'d')"> <span class="checkmark"></span> </label> 
         </div>
       </div>
       <div class="d-flex align-items-center pt-3">
