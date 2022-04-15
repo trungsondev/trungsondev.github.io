@@ -138,7 +138,7 @@ function thihanh(de){
   var tt=i*5;
   // const mang= de.filter((a) => a);
   var ht=`
-  <div class="container mt-sm-5 my-1" id="trungson">
+  <div class="container mt-sm-1 my-1" id="trungson">
       <div class="question ml-sm-5 pl-sm-5 pt-2">
         <div class="py-2 h5"><b>${de[tt]}</b></div>
         <div class="ml-md-3 ml-sm-3 pl-md-5 pt-sm-0 pt-3" id="options"> 
@@ -162,3 +162,18 @@ readTextFile();
 // for (let i = 0; i < de.length; index++) {
 
 // }
+function dropxuat(){
+  var ht= ``;
+  for (let index = 0; index <= 90; index+=10) {
+    ht+=`
+      <option value=${index+1}><strong>Từ câu ${index+1} </strong></option>
+    `
+  }
+  document.getElementById("exampleFormControlSelect1").innerHTML=ht
+}
+dropxuat()
+document.getElementById("exampleFormControlSelect1").addEventListener("change",function(){
+  var y=this.value-1;
+  i=y
+  readTextFile();
+})
