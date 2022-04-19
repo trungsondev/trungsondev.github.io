@@ -99,6 +99,7 @@ var dapan={
   99:"a",
   100:"c"
 }
+var xx=1;
 function readTextFile() {
   var rawFile = new XMLHttpRequest();
   rawFile.open("GET", "cau.txt", true);
@@ -114,15 +115,25 @@ function readTextFile() {
 //305 346 371 94 111 136 141 142 159
 var i=0;
 function cong(){
-  if(i<100){
+  if(i<98){
     i+=1;
+    
+    xx+=1
+    if(i==93){
+      xx=95
+    }
     readTextFile()
   }
+  
   document.getElementById("trungson").style.backgroundColor="#555555";
 }
 function tru(){
   if(i>0){
     i-=1;
+    xx-=1
+    if(i==93){
+      xx=95
+    }
     readTextFile()
   }
   document.getElementById("trungson").style.backgroundColor="#555555";
@@ -136,16 +147,18 @@ function nhanham(socau,traloi){
 }
 function thihanh(de){
   var tt=i*5;
+  
+  console.log(i)
   // const mang= de.filter((a) => a);
   var ht=`
   <div class="container mt-sm-1 my-1" id="trungson">
       <div class="question ml-sm-5 pl-sm-5 pt-2">
         <div class="py-2 h5"><b>${de[tt]}</b></div>
         <div class="ml-md-3 ml-sm-3 pl-md-5 pt-sm-0 pt-3" id="options"> 
-            <label class="options">${de[tt+1]} <input type="radio" name="radio" onclick="nhanham(${i+1},'a')"> <span class="checkmark"></span> </label> 
-            <label class="options">${de[tt+2]} <input type="radio" name="radio" onclick="nhanham(${i+1},'b')"> <span class="checkmark"></span> </label> 
-            <label class="options">${de[tt+3]} <input type="radio" name="radio" onclick="nhanham(${i+1},'c')"> <span class="checkmark"></span> </label> 
-            <label class="options">${de[tt+4]} <input type="radio" name="radio" onclick="nhanham(${i+1},'d')"> <span class="checkmark"></span> </label> 
+            <label class="options">${de[tt+1]} <input type="radio" name="radio" onclick="nhanham(${xx},'a')"> <span class="checkmark"></span> </label> 
+            <label class="options">${de[tt+2]} <input type="radio" name="radio" onclick="nhanham(${xx},'b')"> <span class="checkmark"></span> </label> 
+            <label class="options">${de[tt+3]} <input type="radio" name="radio" onclick="nhanham(${xx},'c')"> <span class="checkmark"></span> </label> 
+            <label class="options">${de[tt+4]} <input type="radio" name="radio" onclick="nhanham(${xx},'d')"> <span class="checkmark"></span> </label> 
         </div>
       </div>
       <div class="d-flex align-items-center pt-3">
@@ -175,5 +188,6 @@ dropxuat()
 document.getElementById("exampleFormControlSelect1").addEventListener("change",function(){
   var y=this.value-1;
   i=y
+  xx=y+2
   readTextFile();
 })
