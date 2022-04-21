@@ -463,12 +463,17 @@ A.	Khả năng truyền tải kiến thức của giáo viên phù hợp với t
 B.	Khả năng tiếp thu kiến thức của người học. 
 C.	Nội dung dạy học phù hợp với trình độ của người học. 
 D.	Độ khó của nhiệm vụ học tập phải phù hợp với giới hạn trên của vùng phát triển trí tuệ gần nhất.
+94. khỗng dữ liệu
+A.	khỗng dữ liệu
+B.	khỗng dữ liệu
+C.	khỗng dữ liệu
+D.	khỗng dữ liệu  
 Câu 95: Các chức năng  của kiểm tra gồm 1.	Chức năng phát hiện, điều chỉnh. 2.	Chức nắng củng cố tri thức và phát triển trí tuệ. 3.	Chức năng xác nhận hay xếp loại. 4.	Chức năng giáo dục và quản lý chất lượng. 	
 A. 1, 2, 3. 	
 B. 1, 2, 4. 	
 C. 1, 3, 4. 
 D. tất cả đều sai
-Câu 96: Các chức năng của đánh giá gồm 1.	Chức năng thể chế. 2.	Chức năng củng cố tri thức và phát triển trí tuệ. 3.	Chức năng xác nhận hay xếp loại. 4.	Chức nắng giáo dục. 	D. 2, 3, 4. 
+Câu 96: Các chức năng của đánh giá gồm 1.	Chức năng thể chế. 2.	Chức năng củng cố tri thức và phát triển trí tuệ. 3.	Chức năng xác nhận hay xếp loại. 4.	Chức nắng giáo dục.
 A. 1, 2, 3. 	
 B. 1, 2, 4. 	
 C. 1, 3, 4. 	
@@ -1892,8 +1897,4 @@ Câu 390: Tình huống : “giáo viên A sử dụng phấn bảng để hư�
 A.	Dụng cụ sang vật tư 
 B.	Dụng cụ sang thiết bị 
 C.	Vật tư sang dụng cụ 
-D.	Vật tư sang thiết bị 	 
- 	  
- 
- 
- 
+D.	Vật tư sang thiết bị
