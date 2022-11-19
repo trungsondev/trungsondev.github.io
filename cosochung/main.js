@@ -470,7 +470,7 @@ readTextFile();
 // }
 function dropxuat() {
     var ht = ``;
-    for (let index = 0; index < 100; index += 10) {
+    for (let index = 0; index < 50; index += 10) {
         ht += `
         <option value=${index+1}><strong>Từ câu ${index+1} </strong></option>
       `
