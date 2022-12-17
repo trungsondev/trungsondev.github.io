@@ -498,318 +498,106 @@ A.hình thức hoạt động ngoại khóa trong dạy học.
 B.hình thức tổ chức dạy học lớp - bài.
 C.hình thức giúp đỡ riêng.
 D.hình thức học tập theo nhóm.
-Câu 101
-Mô hình có tính trừu tượng cao hơn, chỉ ghi lại cái tinh túy của đối tượng và mô tả trực quan được gọi là
-A.
-mô hình tượng trưng.
-B.
-mô hình trực quan.
-C.
-mô hình gần giống vật thật.
-D.
-mô hình mã hóa.
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 102
-Trong hình thức học tập theo nhóm, yếu tố giữa vị thế người tổ chức, định hướng, chỉ đạo hoạt động là
-A.
-tập thể.
-B.
-nhóm.
-C.
-người học.
-D.
-người dạy.
-Đáp án đúng: D
-closeA
-B
-C
-D
-Câu 103
-“Người học luyện tập để hòa quyện những tri thức, kỹ năng, kỹ xảo của phần này sang phần kia, từ bộ môn này sang bộ môn khác” thuộc về mức độ luyện tập
-A.
-vận dụng.
-B.
-đánh giá.
-C.
-tái hiện.
-D.
-sáng tạo.
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 104
-Hiện tượng “Sau khi thành thạo việc đạp xe đạp, đứa trẻ hứng thú muốn chinh phục một điều mới mẻ hơn nên nó đã đạp xe với tốc độ rất nhanh” đã thể hiện quy luật …(1)… của kỹ xảo.
-A.
-(1) tiến bộ không đồng đều
-B.
-(1) “đỉnh” của phương pháp luyện tập
-C.
-(1) tác động qua lại
-Đáp án đúng: B
-closeA
-B
-C
-Câu 105
-Quá trình nhận thức của người học mang …(1)… vì nó diễn ra theo …(2)…
-A.
-(1) tính cơ bản, (2) con đường thẳng ngắn nhất.
-B.
-(1) tính độc đáo, (2) con đường thẳng ngắn nhất.
-C.
-(1) tính cơ bản, (2) quy luật nhận thức của loài người.
-D.
-(1) tính độc đáo, (2) quy luật nhận thức của loài người.
-Đáp án đúng: B
-closeA
-B
-C
-D
-Câu 106
-Phát triển năng lực và phẩm chất trí tuệ, đặc biệt là năng lực tư duy độc lập sáng tạo, trên cơ sở đó hình thành thế giới quan khoa học, góp phần phát triển nhân cách cho đối tượng giáo dục là mục đích của
-A.
-giáo dục đạo đức.
-B.
-giáo dục thẩm mỹ.
-C.
-giáo dục lao động.
-D.
-giáo dục trí tuệ.
-Đáp án đúng: D
-closeA
-B
-C
-D
-Câu 107
-Trong cấu trúc của chương trình dạy, ô liên hệ nghịch được ký hiệu là
-A.
-K.
-B.
-O.
-C.
-OC.
-D.
-I.
-Đáp án đúng: C
-closeA
-B
-C
-D
-Câu 108
-Sự tác động từ người học đến chính bản thân người học giúp họ tự kiểm tra, đánh giá quá trình và kết quả học tập của mình để tự điều khiển, điều chỉnh việc học tập thuộc về mối liên hệ …(1)… của quá trình dạy học.
-A.
-(1) giữa người học và tài liệu
-B.
-(1) ngược ngoài
-C.
-(1) ngược trong
-D.
-(1) xuôi
-Đáp án đúng: C
-closeA
-B
-C
-D
-Câu 109
-Hình thành ở người học hệ thống tri thức lý luận làm nền tảng, tạo ra năng lực thực tiễn và giúp họ sáng tạo là kết quả đạt được khi con người
-A.
-học ngẫu nhiên.
-B.
-hoạt động dạy.
-C.
-hoạt động học.
-D.
-dạy học.
-Đáp án đúng: C
-closeA
-B
-C
-D
-Câu 110
-“Quá trình dạy học phải trang bị cho người học những tri thức khoa học chân chính, chính xác, phản ánh những thành tựu hiện đại của khoa học, kỹ thuật và văn hóa; giúp người học tiếp xúc với một số phương pháp nghiên cứu, có thói quen suy nghĩ và làm việc một cách khoa học; để thông qua đó, hình thành cho người học cơ sở thế giới thuần khoa học, những phẩm chất và tình cảm cao quý của con người lao động” là nội dung của nguyên tắc đảm bảo sự thống nhất giữa
-A.
-vai trò tự giác, tích cực, độc lập của người học và vai trò chủ đạo của người dạy.
-B.
-tính khoa học và tính giáo dục.
-C.
-tính vững chắc của tri thức, kỹ năng, kỹ xảo và tính mềm dẻo của tư duy.
-D.
-lý luận và thực tiễn.
-Đáp án đúng: B
-closeA
-B
-C
-D
-Câu 111
-Nguyên tắc đảm bảo sự thống nhất giữa lý luận và thực tiễn trong dạy học được đúc kết thành phát biểu:
-A.
-“Thông qua dạy chữ mà dạy người”.
-B.
-“Năng lực gắn liền thực tế nhưng không thực dụng”.
-C.
-“Mối liên hệ nội tại giữa trực quan sinh sộng và tư duy trừu tượng”.
-D.
-“Giới hạn cao nhất của vùng phát triển gần nhất”.
-Đáp án đúng: B
-closeA
-B
-C
-D
-Câu 112
-Đối với người dạy, ưu điểm của phương pháp dạy học trình bày trực quan là
-A.
-giải phóng khỏi tính đơn điệu, nặng nhọc của dạy học.
-B.
-tăng cường hiệu suất hoạt động sư phạm nhà giáo.
-C.
-tăng cường khối lượng tri thức lĩnh hội của người học.
-D.
-thỏa mãn và phát triển hứng thú học tập của người học.
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 113
-Học sinh A rất thần tượng một ca sĩ Hàn quốc, ca sĩ đó làm tóc, ăn mặc thế nào thì A cũng bắt chước làm theo nhưng khoảng thời gian sau em nhận thấy có những mẫu trang phục không phù hợp với bản thân nên em đã có đôi chút biến tấu để tạo dấu ấn trên cho mình. Điều này cho thấy bắt chước diễn ra theo quy luật
-A.
-từ máy móc đến sáng tạo.
-B.
-từ giả định đến thực tế.
-C.
-hình mẫu từ gần đến xa.
-D.
-từ vô thức đến có ý thức.
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 114
-Hiện tượng “Khi học bất cứ ngôn ngữ nào chúng ta cũng nên theo trình tự nghe – nói – đọc – viết vì phải thành thạo giai đoạn trước thì mới có thể tiếp tục học nâng cao ở những giai đoạn sau” đã thể hiện quy luật …(1)… của kỹ xảo.
-A.
-(1) “đỉnh” của phương pháp luyện tập
-B.
-(1) tiến bộ không đồng đều
-C.
-(1) dập tắt
-D.
-(1) tác động qua lại
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 115
-Những người hoàn thành một cách hoàn chỉnh nhất, cao nhất, kiệt xuất nhất, có một không hai, tạo ra một thời đại mới trong lĩnh vực hoạt động nào đó là những nhân tài thuộc tầng bậc
-A.
-năng lực.
-B.
-tài năng.
-C.
-thiên tài.
-D.
-năng khiếu.
-Đáp án đúng: C
-closeA
-B
-C
-D
-Câu 116
-Quá trình dạy học được tiến hành thông qua việc truyền đạt và lĩnh hội hàng loạt khái niệm, sự kiện, quá trình, cấu trúc, hệ thống mới được gọi là
-A.
-dạy học lý thuyết.
-B.
-dạy học theo năng lực.
-C.
-dạy học tích hợp.
-D.
-dạy học thực hành.
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 117
-Nhiều phẩm chất, nhiều đặc điểm tâm – sinh lý của người lao động không đáp ứng được hết những yêu cầu do nghề đặt ra có nghĩa là họ …(1)… đối với nghề đó.
-A.
-(1) phù hợp một phần
-B.
-(1) phù hợp phần lớn
-C.
-(1) không phù hợp
-D.
-(1) phù hợp hoàn toàn
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 118
-Xét về nguyên tắc sử dụng phương tiện dạy học, nhược điểm của phương pháp dạy học trình bày trực quan là
-A.
-tổn hại về mặt kinh tế.
-B.
-tác hại về an toàn kỹ thuật, sức khỏe.
-C.
-khó khăn trong việc tổ chức lớp học.
-D.
-phân tán sự chú ý của người học.
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 119
-Hình thức tham quan được tổ chức sau khi học tài liệu học tập nào đó nhằm củng cố đào sâu kiến thức đã học được gọi là
-A.
-tham quan tổng kết.
-B.
-tham quan củng cố.
-C.
-tham quan chuẩn bị.
-D.
-tham quan bổ sung.
-Đáp án đúng: A
-check_circleA
-B
-C
-D
-Câu 120
-Đối với người dạy, phương pháp dạy học nêu vấn đề có nhược điểm là
-A.
-tốn nhiều thời gian.
-B.
-tăng cường độ lao động.
-C.
-không đảm bảo người học vươn lên đồng bộ.
-D.
-đòi hỏi trình độ chuyên môn sâu rộng.
-Đáp án đúng: B
-closeA
-B
-C
-D
-Câu 121
-Mục đích của hoạt động học là
-A.
-làm thay đổi đối tượng học.
-B.
-làm thay đổi chính chủ thể.
-C.
-lĩnh hội nền tri thức nhân loại.
-D.
-phát triển nền tri thức nhân loại.
-Đáp án đúng: B
-closeA
-B
-C
-D
+Câu 101Mô hình có tính trừu tượng cao hơn, chỉ ghi lại cái tinh túy của đối tượng và mô tả trực quan được gọi là
+A.mô hình tượng trưng.
+B.mô hình trực quan.
+C.mô hình gần giống vật thật.
+D.mô hình mã hóa.
+Câu 102Trong hình thức học tập theo nhóm, yếu tố giữa vị thế người tổ chức, định hướng, chỉ đạo hoạt động là
+A.tập thể.
+B.nhóm.
+C.người học.
+D.người dạy.
+Câu 103“Người học luyện tập để hòa quyện những tri thức, kỹ năng, kỹ xảo của phần này sang phần kia, từ bộ môn này sang bộ môn khác” thuộc về mức độ luyện tập
+A.vận dụng.
+B.đánh giá.
+C.tái hiện.
+D.sáng tạo.
+Câu 104Hiện tượng “Sau khi thành thạo việc đạp xe đạp, đứa trẻ hứng thú muốn chinh phục một điều mới mẻ hơn nên nó đã đạp xe với tốc độ rất nhanh” đã thể hiện quy luật …(1)… của kỹ xảo.
+A.(1) tiến bộ không đồng đều
+B.(1) “đỉnh” của phương pháp luyện tập
+C.(1) tác động qua lại
+D.(1) tác động lại qua
+Câu 105Quá trình nhận thức của người học mang …(1)… vì nó diễn ra theo …(2)…
+A.(1) tính cơ bản, (2) con đường thẳng ngắn nhất.
+B.(1) tính độc đáo, (2) con đường thẳng ngắn nhất.
+C.(1) tính cơ bản, (2) quy luật nhận thức của loài người.
+D.(1) tính độc đáo, (2) quy luật nhận thức của loài người.
+Câu 106Phát triển năng lực và phẩm chất trí tuệ, đặc biệt là năng lực tư duy độc lập sáng tạo, trên cơ sở đó hình thành thế giới quan khoa học, góp phần phát triển nhân cách cho đối tượng giáo dục là mục đích của
+A.giáo dục đạo đức.
+B.giáo dục thẩm mỹ.
+C.giáo dục lao động.
+D.giáo dục trí tuệ.
+Câu 108Sự tác động từ người học đến chính bản thân người học giúp họ tự kiểm tra, đánh giá quá trình và kết quả học tập của mình để tự điều khiển, điều chỉnh việc học tập thuộc về mối liên hệ …(1)… của quá trình dạy học.
+A.(1) giữa người học và tài liệu
+B.(1) ngược ngoài
+C.(1) ngược trong
+D.(1) xuôi
+Câu 109Hình thành ở người học hệ thống tri thức lý luận làm nền tảng, tạo ra năng lực thực tiễn và giúp họ sáng tạo là kết quả đạt được khi con người
+A.học ngẫu nhiên.
+B.hoạt động dạy.
+C.hoạt động học.
+D.dạy học.
+Câu 110“Quá trình dạy học phải trang bị cho người học những tri thức khoa học chân chính, chính xác, phản ánh những thành tựu hiện đại của khoa học, kỹ thuật và văn hóa; giúp người học tiếp xúc với một số phương pháp nghiên cứu, có thói quen suy nghĩ và làm việc một cách khoa học; để thông qua đó, hình thành cho người học cơ sở thế giới thuần khoa học, những phẩm chất và tình cảm cao quý của con người lao động” là nội dung của nguyên tắc đảm bảo sự thống nhất giữa
+A.vai trò tự giác, tích cực, độc lập của người học và vai trò chủ đạo của người dạy.
+B.tính khoa học và tính giáo dục.
+C.tính vững chắc của tri thức, kỹ năng, kỹ xảo và tính mềm dẻo của tư duy.
+D.lý luận và thực tiễn.
+Câu 111Nguyên tắc đảm bảo sự thống nhất giữa lý luận và thực tiễn trong dạy học được đúc kết thành phát biểu:
+A.“Thông qua dạy chữ mà dạy người”.
+B.“Năng lực gắn liền thực tế nhưng không thực dụng”.
+C.“Mối liên hệ nội tại giữa trực quan sinh sộng và tư duy trừu tượng”.
+D.“Giới hạn cao nhất của vùng phát triển gần nhất”.Đáp án đúng: B
+Câu 112Đối với người dạy, ưu điểm của phương pháp dạy học trình bày trực quan là
+A.giải phóng khỏi tính đơn điệu, nặng nhọc của dạy học.
+B.tăng cường hiệu suất hoạt động sư phạm nhà giáo.
+C.tăng cường khối lượng tri thức lĩnh hội của người học.
+D.thỏa mãn và phát triển hứng thú học tập của người học.
+Câu 113Học sinh A rất thần tượng một ca sĩ Hàn quốc, ca sĩ đó làm tóc, ăn mặc thế nào thì A cũng bắt chước làm theo nhưng khoảng thời gian sau em nhận thấy có những mẫu trang phục không phù hợp với bản thân nên em đã có đôi chút biến tấu để tạo dấu ấn trên cho mình. Điều này cho thấy bắt chước diễn ra theo quy luật
+A.từ máy móc đến sáng tạo.
+B.từ giả định đến thực tế.
+C.hình mẫu từ gần đến xa.
+D.từ vô thức đến có ý thức.
+Câu 114Hiện tượng “Khi học bất cứ ngôn ngữ nào chúng ta cũng nên theo trình tự nghe – nói – đọc – viết vì phải thành thạo giai đoạn trước thì mới có thể tiếp tục học nâng cao ở những giai đoạn sau” đã thể hiện quy luật …(1)… của kỹ xảo.
+A.(1) “đỉnh” của phương pháp luyện tập
+B.(1) tiến bộ không đồng đều
+C.(1) dập tắt
+D.(1) tác động qua lại
+Câu 115Những người hoàn thành một cách hoàn chỉnh nhất, cao nhất, kiệt xuất nhất, có một không hai, tạo ra một thời đại mới trong lĩnh vực hoạt động nào đó là những nhân tài thuộc tầng bậc
+A.năng lực.
+B.tài năng.
+C.thiên tài.
+D.năng khiếu.
+Câu 116Quá trình dạy học được tiến hành thông qua việc truyền đạt và lĩnh hội hàng loạt khái niệm, sự kiện, quá trình, cấu trúc, hệ thống mới được gọi là
+A.dạy học lý thuyết.
+B.dạy học theo năng lực.
+C.dạy học tích hợp.
+D.dạy học thực hành.
+Câu 117Nhiều phẩm chất, nhiều đặc điểm tâm – sinh lý của người lao động không đáp ứng được hết những yêu cầu do nghề đặt ra có nghĩa là họ …(1)… đối với nghề đó.
+A.(1) phù hợp một phần
+B.(1) phù hợp phần lớn
+C.(1) không phù hợp
+D.(1) phù hợp hoàn toàn
+Câu 118Xét về nguyên tắc sử dụng phương tiện dạy học, nhược điểm của phương pháp dạy học trình bày trực quan là
+A.tổn hại về mặt kinh tế.
+B.tác hại về an toàn kỹ thuật, sức khỏe.
+C.khó khăn trong việc tổ chức lớp học.
+D.phân tán sự chú ý của người học.
+Câu 119Hình thức tham quan được tổ chức sau khi học tài liệu học tập nào đó nhằm củng cố đào sâu kiến thức đã học được gọi là
+A.tham quan tổng kết.
+B.tham quan củng cố.
+C.tham quan chuẩn bị.
+D.tham quan bổ sung.
+Câu 120Đối với người dạy, phương pháp dạy học nêu vấn đề có nhược điểm là
+A.tốn nhiều thời gian.
+B.tăng cường độ lao động.
+C.không đảm bảo người học vươn lên đồng bộ.
+D.đòi hỏi trình độ chuyên môn sâu rộng.
+Câu 121Mục đích của hoạt động học là
+A.làm thay đổi đối tượng học.
+B.làm thay đổi chính chủ thể.
+C.lĩnh hội nền tri thức nhân loại.
+D.phát triển nền tri thức nhân loại.
 Câu 122
 Hình thức tổ chức dạy học có tính chất tự nguyện được tiến hành ngoài giờ lên lớp được gọi là
 A.
